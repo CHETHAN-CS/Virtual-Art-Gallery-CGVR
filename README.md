@@ -12,7 +12,7 @@ BHAVYA BHAGERATHI   (1RV18CS042)
 ### To add text effects and animations to the gallery.
 ### To understand the working principles of modelling scenes and animations with Unity and to optimize the code.
 
-![alt text](https://github.com/CHETHAN-CS/Virtual-Art-Gallery-CGVR/edit/main/image.jpg?raw=true)
+![alt text](https://github.com/CHETHAN-CS/Virtual-Art-Gallery-CGVR/edit/main/image.png?raw=true)
 
 
 
